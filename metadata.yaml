@@ -1,5 +1,8 @@
 _repo: The-Bath-Comedy_56227
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56227-h/images/img-cover.jpg
 creator:
   authors:
   - agent_name: Castle, Agnes
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '4570'
     url: http://www.gutenberg.org/2009/agents/4570
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56227#The-Bath-Comedy
 gutenberg_issued: '2017-12-23'
 gutenberg_type: Text
 identifiers:
